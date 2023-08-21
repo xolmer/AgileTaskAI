@@ -2,7 +2,7 @@
 const nextConfig = {
   images: {
     // Lorem Image
-    domains: ['picsum.photos'],
+    domains: ['picsum.photos', 'cloud.appwrite.io'],
   },
 };
 
